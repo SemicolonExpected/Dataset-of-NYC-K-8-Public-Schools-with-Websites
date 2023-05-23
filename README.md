@@ -4,9 +4,9 @@
  Modifications filter out High Schools and Charter schools, and include each school's website if it exists, and each school's PTA webpage if it exists and contains useful information i.e. not just a summary of what a PTA is.
  We also included whether there was easily accessible contact info for the PTA or a Parent Coordinator, with PTA contact taking precedence. 
 
- In the if responded field, `-1` indicates that the contact information is either outdated or erroneous. For privacy reasons we did not include the contact information
+ In the `PTO or Parent Coordinator contact availible?` field, `-1` indicates that the contact information is either outdated or erroneous and the email could not be sent. For privacy reasons we did not include the contact information. 
 
- (My contributions are specifically from columns H-M, as well as removing duplicate entries found in the original dataset)
+ (My contributions are specifically from columns H-L, as well as removing duplicate entries found in the original dataset)
 
  It took a long time to aggregate all the websites, and check for accuracy of contact information found, so if you use this dataset I would really appreciate if you cite this.
 
