@@ -6,7 +6,7 @@
 
  In the if responded field, `-1` indicates that the contact information is either outdated or erroneous. For privacy reasons we did not include the contact information
 
- (My contributions are specifically from columns H-N, as well as removing duplicate entries found in the original dataset)
+ (My contributions are specifically from columns H-M, as well as removing duplicate entries found in the original dataset)
 
  It took a long time to aggregate all the websites, and check for accuracy of contact information found, so if you use this dataset I would really appreciate if you cite this.
 
